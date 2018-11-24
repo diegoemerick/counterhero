@@ -1,6 +1,8 @@
-# counter
+# Counter Hero
 
-> Counter Hero
+![alt text](src/assets/img/boy.png)
+
+> Use this library to make a counter of your activities
 
 ## Build Setup
 

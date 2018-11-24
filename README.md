@@ -1,6 +1,6 @@
 # counter
 
-> Counter MaxFriday
+> Counter Hero
 
 ## Build Setup
 
